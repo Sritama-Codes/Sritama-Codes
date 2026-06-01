@@ -34,9 +34,13 @@ Hackathons fuel me. Competitions challenge me. Failures teach me.
   <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </div>
-My project lists 
 
-* TrekSOS 
-* Nilgai Detection for Farmers 
+My projects
+
+* TrekSOS - Trekking App System for Offline Emergency Navigation App for Remote Trekkers
+Project Type: AI + Mobile App   |   Domain: Emergency Tech / Adventure Safety   |   Level: B.Tech 2nd Year → Final
+Year
+
+* Animal Detection for Farmers - Detecting crop damaging animal using YOLOv8 Model. 
 * Early Fire Warning System - Fire prediction before the real fire breaks out. 
 
